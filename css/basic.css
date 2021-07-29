@@ -168,3 +168,49 @@ button:hover {
     padding: 20px;
     font-size: 20px;
 }
+
+
+/* 
+To Make Screen More Responsive In Any Size Of Device 
+
+Width Must Be In Accending Order
+
+*/
+
+@media (max-width: 376px) {
+    body {
+        background-color: crimson;
+    }
+}
+
+@media (min-width: 376px) {
+    body {
+        background-color: red;
+    }
+}
+
+@media (min-width: 600px) {
+    body {
+        background-color: black;
+    }
+}
+
+@media (min-width: 768px) {
+    body {
+        background-color: chocolate;
+    }
+}
+
+@media (min-width: 992px) {
+    body {
+        background-color: rgb(243, 243, 10);
+    }
+}
+
+@media (min-width: 1199px) {
+    body {
+        background-color: burlywood;
+    }
+}
+
+
