@@ -1,0 +1,103 @@
+I Will Learn Python Javascript
+
+SQL Migrations
+User Interdace
+
+Testing CI/CD
+
+Scalabilty And Security-> Load Balancer-> Server Server Server]
+
+
+[
+
+HTMl And CSS
+
+Design And Implimntation
+
+Git
+
+Python -> Django
+
+Javascript
+
+CI/CD
+Continouing Integration - Continuting Deliverying 
+
+Scalability And Security
+
+HTML: 
+
+Document Object Model-
+html-> head-> title
+html->body ->Hello World 
+
+Js ability to modify Webbpages Using DOM Model
+
+In HTML Single Elements Have No Closing Tag Beacause They Dose Not Contain Anything In Between It
+
+CSS
+
+attribute like declaring Class or id in CSS
+
+margin fot add outside of of ele ment
+padding to add size inside in element
+
+id can be used for declare unique id it can accesssed by using # It mean # mean slect only pertifvular part
+
+class is used to use if we want to use nultiple time it can access by . 
+
+c
+  
+specofocity-> inline, id, class, type 
+
+CSS Selctorrs
+a, b-> Multiple ELement
+a b -> Descendant Selector
+a > b -> child selector
+a + b -> Ajacemt Sobling Selector
+[a=b] -> Attribute Selector
+a:b -> Pseudoclass Selector
+a::b -> Pseudoelelement Selector
+
+
+This Line Is Very Important To Make Webpage Responsive
+<meta name="viewpory" content="width=device-width, initial-scale=1.0">
+
+also using @media mix and max width we can make responsove;
+And Width Must Be In Accending Order
+
+using flex and flexbox we can make webpages more responsive like in div tag 
+div {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+Alrernative for Flex is Gridview We Need To Specify Some Attributes Like coloum gap, row gap and grind coloum template Too
+
+
+Boostrap Is Very Simple All I Have TO DO IS To Just Get Right Boostrap File And Class Names
+
+
+
+Sass IN CSS
+
+Sass Is Great It IS used to avoid repetaion of code
+
+It Has extenion is .scss
+
+we have to compile it to .css file using sass
+
+it uses inheritance
+in it we can declare veriables
+
+      
+
+
+
+
+@keyframes for animation in css
+
+postion must be relative
+@keyframes myanim {
+}
+]

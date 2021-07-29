@@ -1,9 +1,14 @@
+:root {
+    --color-prime: #53d35a;
+    --color-danger: rgb(255, 2, 2);
+}
+
 * {
     font-family: Arial, Helvetica, sans-serif;
     
 }
 h1 {
-    color: red;
+    color: var(--color-danger);
     text-shadow: 1rem;
     text-decoration: dashed;
     text-rendering: geometricPrecision;
