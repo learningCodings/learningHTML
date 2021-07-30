@@ -153,4 +153,12 @@ to check last comment & current repo location-> $git checkout;
 
 to check is any thing remains to push or what remains to push-> $git status;
 
+/*Testing Git pull command what if I did not push and I'm directly pull code*/
+
+/*
+Its Not Working first I've to push then pull then push
+
+Some times it get complicated for me I can manage it by accepting both changes*/
+
+
 ]
