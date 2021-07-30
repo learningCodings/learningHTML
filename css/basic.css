@@ -1,6 +1,11 @@
 :root {
     --color-prime: #53d35a;
     --color-danger: rgb(255, 2, 2);
+    --margin-sd: 5px;
+    --margin-md: 10px;
+    --margin-ld: 20px;
+
+
 }
 
 * {
@@ -75,7 +80,7 @@ div {
     width: 200px;
     height: 200px;
     background-color: red;
-    margin: 20px;
+    margin: var(--margin-ld);
     margin-top: 20px;
     margin-bottom: 20px;
     margin-right: 200px;
