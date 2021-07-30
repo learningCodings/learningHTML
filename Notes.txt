@@ -39,7 +39,7 @@ CSS
 
 attribute like declaring Class or id in CSS
 
-margin fot add outside of of ele ment
+margin fot add outside of of element
 padding to add size inside in element
 
 id can be used for declare unique id it can accesssed by using # It mean # mean slect only pertifvular part
@@ -76,7 +76,8 @@ Alrernative for Flex is Gridview We Need To Specify Some Attributes Like coloum 
 
 
 Boostrap Is Very Simple All I Have TO DO IS To Just Get Right Boostrap File And Class Names
-
+To Use Boostrap Only Need TO Use CommanSense And I Know Element I'm Using And What Is Purpose Of It
+And Which Code Should I Copy From Boostrap Or Which Class Should Give As Attribute To Element
 
 
 Sass IN CSS
