@@ -113,7 +113,7 @@ Git: It Is A Version Control Tool And I can perfom actions by using command line
 
 Some Features OF Git
 
-I can work on repositry == repo, with multiple Developers
+I can work on repository == repo, with multiple Developers
 
 I can push code on my repo 
 
@@ -150,5 +150,7 @@ after testing code and its working then if I want to add that Code In Main Branc
 and after adding test branch code in main branch if I want to delete it then-> $git rebase;
 
 to check last comment & current repo location-> $git checkout;
+
+to check is any thing remains to push or what remains to push-> $git status;
 
 ]
