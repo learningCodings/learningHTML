@@ -151,4 +151,6 @@ and after adding test branch code in main branch if I want to delete it then-> $
 
 to check last comment & current repo location-> $git checkout;
 
+/*Testing Git pull command what if I did not push and I'm directly pull code*/
+
 ]
