@@ -109,7 +109,7 @@ postion must be relative
 
 #1 [
 
-Git: It Is A Version Control Tool And I can perfom actions by using command line and also on github.com
+Git: It Is A "Distrubted Version Control Tool" And I can perfom actions by using command line and also on github.com
 
 Some Features OF Git
 
@@ -136,18 +136,25 @@ to upload or push code on git-> $git push;
 
 to remove or delete or undo last comment-> $git revert;
 
-to comment & push already added files-> $git commit -am "-a may be for already added";
+to comment & push already added files-> $git commit -am "-am Means Add This Comment To All Files That Currently on the way to push";
 
 to get all changes in code-> $git log;
 
 to download or pull code from already cloned repo-> $git pull;
 
+to test code without changing main code by creating branch-> $git checkout -b branchName;
+and after it automatically switch to that new branch
+And Automatically new branch became HEAD (Know More About Head May Be At Line N0: 169)
+and git command impact is only on branch repo
 
-to test code without changing main code by creating branch-> $git branch newRepoName;
+if I want to switch my repo in between it-> $git checkout repoName;
 
 after testing code and its working then if I want to add that Code In Main Branch then(in that branch)-> $git merge main; 
 
 and after adding test branch code in main branch if I want to delete it then-> $git rebase;
+
+after creating branch it is called as feature branch and main branch as master branch 
+and on which branch I'm working it is called as HEAD s
 
 to check last comment & current repo location-> $git checkout;
 
@@ -155,10 +162,19 @@ to check is any thing remains to push or what remains to push-> $git status;
 
 /*Testing Git pull command what if I did not push and I'm directly pull code*/
 
-/*
+/* 
 Its Not Working first I've to push then pull then push
 
 Some times it get complicated for me I can manage it by accepting both changes*/
+
+It is called merge confict
+
+it shows my changes as Head vs & remote changes as conflicting commit
+
+It can be solved by accepting both changes or keeping only one change
+
+
+
 
 
 ]
