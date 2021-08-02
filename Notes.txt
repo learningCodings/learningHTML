@@ -173,8 +173,11 @@ it shows my changes as Head vs & remote changes as conflicting commit
 
 It can be solved by accepting both changes or keeping only one change
 
+GitHub Pages Using It Can Be Published Simple Static Webpages In Free Of Cost 
+
+We Need To Just Add Extention to any repo repoName.github.io It will be considerd as github Pages And published with github account username
 
 
-
+    
 
 ]
